@@ -1,2 +1,7 @@
-#!/bin/bish
-echo "ALX School is so cool"
+
+
+
+
+#!/bin/bash
+echo "ALX School"
+
